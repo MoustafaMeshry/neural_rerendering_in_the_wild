@@ -1,5 +1,4 @@
 # Neural Rerendering in the Wild
-Implementation for the Neural Rerendering in the Wild paper
 
 We will provide our Tensorflow implementation and pretrained models for our paper very soon.
 
