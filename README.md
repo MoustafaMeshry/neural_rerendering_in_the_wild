@@ -7,7 +7,8 @@ To appear at CVPR 2019 (Oral). <br><br>
 
 
 <figure class="image">
-  <img src="imgs/teaser_with_caption.jpg" width="450px"">
+  <!--- <img src="imgs/teaser_with_caption.jpg" width="450px""> --->
+  <img src="https://github.com/MoustafaMeshry/neural_rerendering_in_the_wild/blob/master/imgs/teaser_with_caption.jpg?raw=true" width="450px"">
 </figure>
 
 We will provide Tensorflow implementation and pretrained models for our paper soon.
