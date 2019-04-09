@@ -56,13 +56,13 @@ We also compare results with prior work on scene reconstruction from internet ph
                                                         
 ### Appearance variation
 <figure class="image">
-  <img src="imgs/app_variatoin.jpg" width="1200px">
+  <img src="imgs/app_variatoin.jpg" width="900px">
 </figure>
 <!--- [![app_variation] (https://github.com/MoustafaMeshry/neural_rerendering_in_the_wild/blob/master/imgs/app_variatoin.jpg?raw=true | width=900)] --->
 
 ### Appearance interpolation
 <figure class="image">
-  <img src="imgs/app_interpolation.jpg" width="1200px">
+  <img src="imgs/app_interpolation.jpg" width="900px">
 </figure>
 <!--- [![app_interpolation] (https://github.com/MoustafaMeshry/neural_rerendering_in_the_wild/blob/master/imgs/app_interpolation.jpg?raw=true | width=900)] --->
 
