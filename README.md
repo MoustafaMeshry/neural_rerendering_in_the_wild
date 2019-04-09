@@ -10,8 +10,7 @@ To appear at CVPR 2019 (Oral). <br><br>
   <!--- <img src="imgs/teaser_with_caption.jpg" width="450px""> --->
   <img src="https://github.com/MoustafaMeshry/neural_rerendering_in_the_wild/blob/master/imgs/teaser_with_caption.jpg?raw=true" width="450px"">
 </figure>
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-[![Teaser figure](https://github.com/MoustafaMeshry/neural_rerendering_in_the_wild/blob/master/imgs/teaser_with_caption.jpg?raw=true)]
+[![Teaser figure](https://github.com/MoustafaMeshry/neural_rerendering_in_the_wild/blob/master/imgs/teaser_with_caption.jpg?raw=true) | width=450px]
                                                                                                                                               
 We will provide Tensorflow implementation and pretrained models for our paper soon.
 
