@@ -6,10 +6,13 @@ Moustafa Meshry<sup>1</sup>, Dan B Goldman<sup>2</sup>, Sameh Khamis<sup>2</sup>
 To appear at CVPR 2019 (Oral). <br><br>
 
 
+<figure class="image">
+  <img src="imgs/teaser_with_caption.jpg" width="450px"">
+</figure>
+
 We will provide Tensorflow implementation and pretrained models for our paper soon.
 
-### Video
-[![cvpr_video](https://img.youtube.com/vi/Mq9OCKpFaUs/0.jpg)](https://www.youtube.com/watch?v=Mq9OCKpFaUs)
+**Paper** | [**Video**](https://www.youtube.com/watch?v=Mq9OCKpFaUs) | [**Code**](https://github.com/MoustafaMeshry/neural_rerendering_in_the_wild) | [**Project page**](https://moustafameshry.github.io/neural_rerendering_in_the_wild/)
 
 ### Abstract
 
@@ -22,6 +25,33 @@ The model is evaluated on several datasets of publicly available images spanning
 We create short videos demonstrating realistic manipulation of the image viewpoint, appearance, and semantic labeling.
 We also compare results with prior work on scene reconstruction from internet photos.
 
-### Paper
+### Video
+[![cvpr_video](https://img.youtube.com/vi/Mq9OCKpFaUs/0.jpg)](https://www.youtube.com/watch?v=Mq9OCKpFaUs)
 
+<!---
+### Paper
+--->
+
+<!---
 ### Results
+<figure class="image">
+  <img src="imgs/teaser/teaser_part1.jpg" width="450px"">
+  <figcaption>(a) Input deep buffer</figcaption>
+  <img src="imgs/teaser/teaser_part2.jpg" width="450px"">
+  <figcaption>(b) Output rerenderings</figcaption>
+</figure>
+<figure class="image">
+  <img src="imgs/teaser_with_caption.jpg" width="450px"">
+</figure>
+--->
+                                                        
+### Appearance variation
+<figure class="image">
+  <img src="imgs/app_variatoin.jpg" width="900px"">
+</figure>
+
+### Appearance interpolation
+<figure class="image">
+  <img src="imgs/app_interpolation.jpg" width="900px"">
+</figure>
+
