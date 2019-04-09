@@ -21,7 +21,7 @@ To appear at CVPR 2019 (Oral). <br><br>
                                                                                                                                               
 We will provide Tensorflow implementation and pretrained models for our paper soon.
 
-**Paper** | [**Video**](https://www.youtube.com/watch?v=Mq9OCKpFaUs) | [**Code**](https://github.com/MoustafaMeshry/neural_rerendering_in_the_wild) | [**Project page**](https://moustafameshry.github.io/neural_rerendering_in_the_wild/)
+**Paper** | [**Video**](https://www.youtube.com/watch?v=E1crWQn_kmY) | [**Code**](https://github.com/MoustafaMeshry/neural_rerendering_in_the_wild) | [**Project page**](https://moustafameshry.github.io/neural_rerendering_in_the_wild/)
 
 ### Abstract
 
@@ -35,7 +35,7 @@ We create short videos demonstrating realistic manipulation of the image viewpoi
 We also compare results with prior work on scene reconstruction from internet photos.
 
 ### Video
-[![cvpr_video](https://img.youtube.com/vi/Mq9OCKpFaUs/0.jpg)](https://www.youtube.com/watch?v=Mq9OCKpFaUs)
+[![cvpr_video](https://img.youtube.com/vi/E1crWQn_kmY/0.jpg)](https://www.youtube.com/watch?v=E1crWQn_kmY)
 
 <!---
 ### Paper
