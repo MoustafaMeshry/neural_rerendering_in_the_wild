@@ -66,3 +66,5 @@ We also compare results with prior work on scene reconstruction from internet ph
 </figure>
 <!--- [![app_interpolation] (https://github.com/MoustafaMeshry/neural_rerendering_in_the_wild/blob/master/imgs/app_interpolation.jpg?raw=true | width=900)] --->
 
+### Acknowledgements
+We thank Gregory Blascovich for his help in conducting the user study, and Johannes Schönberger and True Price for their help generating datasets.
