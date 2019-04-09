@@ -14,8 +14,9 @@ To appear at CVPR 2019 (Oral). <br><br>
 
 <figure class="image">
   <!--- <img src="imgs/teaser_with_caption.jpg" width="450px""> --->
-  <img src="https://github.com/MoustafaMeshry/neural_rerendering_in_the_wild/blob/master/imgs/teaser_with_caption.jpg?raw=true" width="450px">
+  <img align="center" src="https://github.com/MoustafaMeshry/neural_rerendering_in_the_wild/blob/master/imgs/teaser_with_caption.jpg?raw=true" width="500px">
 </figure>
+
 <!--- ![Teaser figure](https://github.com/MoustafaMeshry/neural_rerendering_in_the_wild/blob/master/imgs/teaser_with_caption.jpg?raw=true | width=450) --->
                                                                                                                                               
 We will provide Tensorflow implementation and pretrained models for our paper soon.
@@ -55,13 +56,13 @@ We also compare results with prior work on scene reconstruction from internet ph
                                                         
 ### Appearance variation
 <figure class="image">
-  <img src="imgs/app_variatoin.jpg" width="900px">
+  <img src="imgs/app_variatoin.jpg" width="1200px">
 </figure>
 <!--- [![app_variation] (https://github.com/MoustafaMeshry/neural_rerendering_in_the_wild/blob/master/imgs/app_variatoin.jpg?raw=true | width=900)] --->
 
 ### Appearance interpolation
 <figure class="image">
-  <img src="imgs/app_interpolation.jpg" width="900px">
+  <img src="imgs/app_interpolation.jpg" width="1200px">
 </figure>
 <!--- [![app_interpolation] (https://github.com/MoustafaMeshry/neural_rerendering_in_the_wild/blob/master/imgs/app_interpolation.jpg?raw=true | width=900)] --->
 
