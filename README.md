@@ -2,7 +2,7 @@
 Moustafa Meshry<sup>1</sup>, 
 [Dan B Goldman](http://www.danbgoldman.com/)<sup>2</sup>, 
 [Sameh Khamis](http://www.samehkhamis.com/)<sup>2</sup>, 
-[Hugue Hoppe](http://hhoppe.com/)<sup>2</sup>, 
+[Hugues Hoppe](http://hhoppe.com/)<sup>2</sup>, 
 Rohit Pandey<sup>2</sup>, 
 [Noah Snavely](http://www.cs.cornell.edu/~snavely/)<sup>2</sup>, 
 [Ricardo Martin-Brualla](http://www.ricardomartinbrualla.com/)<sup>2</sup>.
